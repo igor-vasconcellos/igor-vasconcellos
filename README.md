@@ -1,10 +1,9 @@
 ### Prazer, Igor Vasconcelos 👨🏻‍💻
 #### Desenvolvendo e aprendendo.
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=vzgoat&show_icons=true&&bg_color=00000000)
-
- <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vzgoat&layout=compact&langs_count=16&color=00000000"/>
-  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vzgoat&theme=default&show_icons=true"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vzgoat&layout=compact&langs_count=16&color=00000000"/>
 </div>
 
 ### 💻 Back-End Skills: 
