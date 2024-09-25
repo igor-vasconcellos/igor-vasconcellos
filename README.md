@@ -1,6 +1,9 @@
-<div align="center">
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&width=435&height=40&lines=Hey,+Yo!+I'm+Igor+Vasconcellos!+%E2%98%95%F0%9F%92%BB" alt="Typing SVG">
+    </a>
+</p>
 
-### Hey Yo, I'm Igor Vasconcelos  👨🏻‍💻
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vzgoat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
