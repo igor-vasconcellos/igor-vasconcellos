@@ -25,16 +25,16 @@
 
 ### 💻 Back-End Skills: 
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
-### 💻 Design e Prototyping Skills: 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" widtf="40" height="40" style="max-width: 100%; margin: 0 2px;"/> </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" widtf="40" height="40" style="max-width: 100%; margin: 0 2px;"/> </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" widtf="40" height="40" style="max-width: 100%; margin: 0 2px;"/> </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" widtf="40" height="40" style="max-width: 100%; margin: 0 2px;"/> </img>
 
+### 💻 Design e Prototyping Skills: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" widtf="40" height="40" style="max-width: 100%; margin: 0 2px;"/> </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" widtf="40" height="40" style="max-width: 100%; margin: 0 2px;"/> </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" widtf="40" height="40" style="max-width: 100%; margin: 0 2px;"/> </img>
 
 </p>
 
