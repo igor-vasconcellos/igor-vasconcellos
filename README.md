@@ -40,7 +40,7 @@
 
 ### Connect with me:
   <a href="https://linkedin.com/in/igor-vasconcellos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-vasconcellos" height="30" width="40" /></a>
-  <a href="https://instagram.com/vzgoat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vzgoat" height="30" width="40" /></a>
+  <a href="https://instagram.com/igorvscw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vzgoat" height="30" width="40" /></a>
   </p>
 
 <p><img src="https://komarev.com/ghpvc/?username=vzgoat&style=flat-square&color=blueviolet" alt="vzgoat"/></p>
