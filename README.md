@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vzgoat.vzgoat" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=igor-vasconcellos
+.igor-vasconcellos" />
 
 <h1 align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&width=600&height=40&lines=Hey+Yo!+I'm+Igor+Vasconcellos!" alt="Typing SVG">
@@ -13,10 +14,10 @@
 </div>
 
 <div align="center">
-  <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vzgoat&count_private=true&theme=react&border_radius=10" alt="streak stats" style="object-fit: cover;"/>
-  <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api?username=vzgoat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="object-fit: cover;"/>
+  <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=igor-vasconcellos&count_private=true&theme=react&border_radius=10" alt="streak stats" style="object-fit: cover;"/>
+  <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api?username=igor-vasconcellos&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="object-fit: cover;"/>
   <br/>
-  <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vzgoat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="object-fit: cover;"/>
+  <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=igor-vasconcellos&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="object-fit: cover;"/>
 </div>
 
 <div align="center">
@@ -24,9 +25,6 @@
 ### ⚒️ Languages-Tools ⚒️
 
 </div>
-
-
-
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
