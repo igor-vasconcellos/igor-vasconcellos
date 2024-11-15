@@ -25,7 +25,7 @@
 ### ⚒️ Technolygs Skills ⚒️
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,mysql,python,github,git," />
 </div>
 
 ### ⚒️ Languages-Tools ⚒️
@@ -33,13 +33,12 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,c,java,mysql,figma,photoshop,aftereffects" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,aftereffects" /><br>
 </div>
 
 <div align="center">
 
-### 💬 Connect with me 💬
+### 💬 Contact me 💬
 
 </div>
 
