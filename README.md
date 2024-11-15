@@ -22,13 +22,13 @@
 
 <div align="center">
 
-### ⚒️ Technolygs Skills ⚒️
+### 👨🏻‍💻 Technolygs Skills 👨🏻‍💻
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,mysql,python,github,git," />
 </div>
 
-### ⚒️ Languages-Tools ⚒️
+### ⚒️ Other Skills ⚒️
 
 </div>
 
