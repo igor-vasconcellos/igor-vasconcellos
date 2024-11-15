@@ -26,6 +26,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,mysql,python,github,git," />
+        <img src="https://skillicons.dev/icons?i=mysql,python,github,git," />
 </div>
 
 ### ⚒️ Other Skills ⚒️
