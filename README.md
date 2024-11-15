@@ -25,7 +25,7 @@
 ### 👨🏻‍💻 Technolygs Skills 👨🏻‍💻
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,github,git,python,c,java," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,github,git,python,c,java"/>
 </div>
 
 ### ⚒️ Other Skills ⚒️
