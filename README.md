@@ -22,7 +22,7 @@
 
 <div align="center">
 
-### 👨🏻‍💻 Technolygs Skills 👨🏻‍💻
+### 👨🏻‍💻 Main Skills 👨🏻‍💻
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,github,git,python,c,java"/>
