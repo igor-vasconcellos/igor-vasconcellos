@@ -25,7 +25,7 @@
 ### 👨🏻‍💻 Main Skills 👨🏻‍💻
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,github,git,python,c,java"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,github,git,py,c,cs,java,nodejs,express"/>
 </div>
 
 ### ⚒️ Other Skills ⚒️
@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,aftereffects" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,aftereffects" /><br>
 </div>
 
 <div align="center">
@@ -43,9 +43,9 @@
 </div>
 
 <div align="center"> 
-<a href="mailto:igorlivassan@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/37679976-4aaf-48df-b60f-64b75016ea37" alt="gmail" height="30" width="40" /></a>
-<a href="https://instagram.com/igorvscw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vzgoat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/igor-vasconcellos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-vasconcellos" height="30" width="40" /></a>
+<a href="mailto:igorlivassan@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
+<a href="https://instagram.com/igorvsconcellos" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="vzgoat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/igor-vasconcellos" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="igor-vasconcellos" height="30" width="40" /></a>
 </div>
 
 <div align="center">
