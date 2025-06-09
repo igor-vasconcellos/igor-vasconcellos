@@ -25,7 +25,7 @@
 ### 👨🏻‍💻 Main Skills 👨🏻‍💻
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,github,git,py,c,cs,java,nodejs,express"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,github,git,py,cs,c,java,nodejs,express"/>
 </div>
 
 ### ⚒️ Other Skills ⚒️
